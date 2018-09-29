@@ -14,9 +14,9 @@ import (
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 	"github.com/mitchellh/mapstructure"
-	. "github.com/mlabouardy/users-restapi/config"
-	. "github.com/mlabouardy/users-restapi/dao"
-	. "github.com/mlabouardy/users-restapi/models"
+	. "github.com/yaochoal/users-restapi/config"
+	. "github.com/yaochoal/users-restapi/dao"
+	. "github.com/yaochoal/users-restapi/models"
 )
 
 var config = Config{}
